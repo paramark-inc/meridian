@@ -23,6 +23,10 @@ To release a new version (e.g. from `1.0.0` -> `2.0.0`):
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-04-29
+
+*   Expose full EDA package and related proto improvements.
+
 ## [1.1.3] - 2026-04-22
 
 *   Add `ComputationPrecision` proto for Meridian models.
@@ -52,4 +56,5 @@ To release a new version (e.g. from `1.0.0` -> `2.0.0`):
 [1.1.1]: https://github.com/google/meridian/releases/tag/proto-v1.1.1
 [1.1.2]: https://github.com/google/meridian/releases/tag/proto-v1.1.2
 [1.1.3]: https://github.com/google/meridian/releases/tag/proto-v1.1.3
-[Unreleased]: https://github.com/google/meridian/compare/proto-v1.1.3...HEAD
+[1.2.0]: https://github.com/google/meridian/releases/tag/proto-v1.2.0
+[Unreleased]: https://github.com/google/meridian/compare/proto-v1.2.0...HEAD
